@@ -1,10 +1,12 @@
 {
-    "MMRCL": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMRCL": {
+		"LBL": {
+			"LBL_MMRCL_BANCOGNWE_23109": "Banco",
+			"LBL_MMRCL_CLIENTEMC_30146": "Cliente",
+			"LBL_MMRCL_SALDOYIMJ_21768": "Saldo",
+			"LBL_MMRCL_TIPOZVLIM_36110": "Tipo"
+		},
+		"MSG": {
+		}
+	}
 }
