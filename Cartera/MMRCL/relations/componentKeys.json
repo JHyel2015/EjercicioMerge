@@ -6,5 +6,18 @@
 		"EN_CUENTABWT_694": {
 			"name": "Cuenta"
 		}
+	},
+	"SSMMC": {
+		"CompositeForms": {
+		},
+		"Forms": {
+			"T_MMRCLOEFHWKFK_410": {
+				"name": "formInsertarCliente"
+			}
+		},
+		"Queries": {
+		},
+		"SubForms": {
+		}
 	}
 }

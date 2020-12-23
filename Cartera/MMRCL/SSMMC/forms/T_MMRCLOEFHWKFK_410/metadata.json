@@ -1,0 +1,12 @@
+{
+	"entities": [
+		{
+			"entityId": "EN_CLIENTEJF_880",
+			"isContextEntity": null,
+			"moduleId": "MMRCL",
+			"related": false
+		}
+	],
+	"queries": [
+	]
+}

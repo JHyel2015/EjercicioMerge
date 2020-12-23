@@ -12,6 +12,33 @@
 		}
 	},
 	"Forms": {
+		"T_MMRCLOEFHWKFK_410": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CLIENTEJF_880": [
+					"AT47_NOMBREEK880",
+					"AT79_APELLIDO880",
+					"AT82_TELEFOOO880"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMRCL_APELLIDOO_98358",
+				"LBL_MMRCL_NOMBREKLS_26441",
+				"LBL_MMRCL_REGISTRRR_95963",
+				"LBL_MMRCL_TELFONOFH_49769"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		}
 	},
 	"Queries": {
 	}

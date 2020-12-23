@@ -1,10 +1,12 @@
 {
-    "MMRCL": {
-        "LBL": {
-
-        },
-        "MSG": {
-
-        }
-    }
+	"MMRCL": {
+		"LBL": {
+			"LBL_MMRCL_APELLIDOO_98358": "Apellido",
+			"LBL_MMRCL_NOMBREKLS_26441": "Nombre",
+			"LBL_MMRCL_REGISTRRR_95963": "Registrar",
+			"LBL_MMRCL_TELFONOFH_49769": "Tel\u00e9fono"
+		},
+		"MSG": {
+		}
+	}
 }
