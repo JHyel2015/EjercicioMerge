@@ -1,6 +1,11 @@
 {
+}
 	"MMRCL": {
 		"LBL": {
+			"LBL_MMRCL_BANCOGNWE_23109": "Banco",
+			"LBL_MMRCL_CLIENTEMC_30146": "Cliente",
+			"LBL_MMRCL_SALDOYIMJ_21768": "Saldo",
+			"LBL_MMRCL_TIPOZVLIM_36110": "Tipo",
 			"LBL_MMRCL_APELLIDOO_98358": "Apellido",
 			"LBL_MMRCL_NOMBREKLS_26441": "Nombre",
 			"LBL_MMRCL_REGISTRRR_95963": "Registrar",

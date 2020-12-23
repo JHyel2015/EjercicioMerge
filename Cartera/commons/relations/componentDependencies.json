@@ -12,6 +12,35 @@
 		}
 	},
 	"Forms": {
+
+		"T_MMRCLVYCWNEZK_550": {
+			"blis": [
+			],
+			"entities": {
+				"EN_CUENTABWT_694": [
+					"AT10_TIPOTBDD694",
+					"AT42_SALDOFIN694",
+					"AT47_BACNOZMA694",
+					"AT77_CLIENTEE694"
+				]
+			},
+			"externalEntities": {
+			},
+			"externalQueries": {
+			},
+			"header": [
+			],
+			"labels": [
+				"LBL_MMRCL_BANCOGNWE_23109",
+				"LBL_MMRCL_CLIENTEMC_30146",
+				"LBL_MMRCL_SALDOYIMJ_21768",
+				"LBL_MMRCL_TIPOZVLIM_36110"
+			],
+			"queries": {
+			},
+			"subForms": [
+			]
+		},
 		"T_MMRCLOEFHWKFK_410": {
 			"blis": [
 			],
@@ -38,8 +67,7 @@
 			},
 			"subForms": [
 			]
-		}
-	},
+		}	},
 	"Queries": {
 	}
 }
